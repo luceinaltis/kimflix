@@ -13,12 +13,12 @@ export default () => (
         <>
             <Header />
             <Switch>
-                <Route path="https://kimflix.github.io/kimflix/" exact component={ Home } />
-                <Route path="https://kimflix.github.io/kimflix/tv" exact component={ TV } />
-                <Route path="https://kimflix.github.io/kimflix/search" exact component={ Search } />
-                <Route path="https://kimflix.github.io/kimflix/movie/:id" component={ Detail } />
-                <Route path="https://kimflix.github.io/kimflix/show/:id" component={ Detail } />
-                <Redirect from="*" to="/" />
+                <Route path="https://luceinaltis.github.io/kimflix/" exact component={ Home } />
+                <Route path="https://luceinaltis.github.io/kimflix/tv" exact component={ TV } />
+                <Route path="https://luceinaltis.github.io/kimflix/search" exact component={ Search } />
+                <Route path="https://luceinaltis.github.io/kimflix/movie/:id" component={ Detail } />
+                <Route path="https://luceinaltis.github.io/kimflix/show/:id" component={ Detail } />
+                <Redirect from="*" to="/kimflix/" />
             </Switch>
         </>
     </Router>
