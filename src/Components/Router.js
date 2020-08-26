@@ -16,8 +16,8 @@ export default () => (
                 <Route path="/kimflix/" exact component={ Home } />
                 <Route path="/kimflix/tv" exact component={ TV } />
                 <Route path="/kimflix/search" exact component={ Search } />
-                <Route path="/kimflix/movie/:id" component={ Detail } />
-                <Route path="/kimflix/show/:id" component={ Detail } />
+                <Route path="/kimflix/movie/:id" exact component={ Detail } />
+                <Route path="/kimflix/show/:id" exact component={ Detail } />
                 <Redirect from="*" to="/kimflix/" />
             </Switch>
         </>
