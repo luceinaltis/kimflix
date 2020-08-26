@@ -14,7 +14,7 @@ const Container = styled.div`
 const TVPresenter = ({ topRated, popular, airingToday, loading, error }) => loading ? <Loader /> : (
     <Container>
         <Helmet>
-            <title>TV Shows | Nomflix</title>
+            <title>TV Shows | Kimflix</title>
         </Helmet>
         {topRated && topRated.length > 0 && (
             <Section title="Top Rated Shows">

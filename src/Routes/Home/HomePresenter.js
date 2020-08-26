@@ -14,7 +14,7 @@ const Container = styled.div`
 const HomePresenter = ({ nowPlaying, upcoming, popular, loading, error }) => loading ? <Loader /> : (
     <Container>
         <Helmet>
-            <title>Movies | Nomflix</title>
+            <title>Movies | Kimflix</title>
         </Helmet>
         {nowPlaying && nowPlaying.length > 0 && (
             <Section title="Now Playing">
