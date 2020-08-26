@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/kimflix/static/js/main.d7cd62a1.chunk.js",
-    "main.js.map": "/kimflix/static/js/main.d7cd62a1.chunk.js.map",
+    "main.js": "/kimflix/static/js/main.8678016f.chunk.js",
+    "main.js.map": "/kimflix/static/js/main.8678016f.chunk.js.map",
     "runtime-main.js": "/kimflix/static/js/runtime-main.4a13dceb.js",
     "runtime-main.js.map": "/kimflix/static/js/runtime-main.4a13dceb.js.map",
     "static/js/2.96d959f7.chunk.js": "/kimflix/static/js/2.96d959f7.chunk.js",
     "static/js/2.96d959f7.chunk.js.map": "/kimflix/static/js/2.96d959f7.chunk.js.map",
     "index.html": "/kimflix/index.html",
-    "precache-manifest.5a6b5c21604044c31ef1efd0d2b1a593.js": "/kimflix/precache-manifest.5a6b5c21604044c31ef1efd0d2b1a593.js",
+    "precache-manifest.ace786d8d5ade2bba7d01bdccdd0ae07.js": "/kimflix/precache-manifest.ace786d8d5ade2bba7d01bdccdd0ae07.js",
     "service-worker.js": "/kimflix/service-worker.js",
     "static/js/2.96d959f7.chunk.js.LICENSE.txt": "/kimflix/static/js/2.96d959f7.chunk.js.LICENSE.txt",
     "static/media/noPoster.jpg": "/kimflix/static/media/noPoster.fc7ece8e.jpg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.4a13dceb.js",
     "static/js/2.96d959f7.chunk.js",
-    "static/js/main.d7cd62a1.chunk.js"
+    "static/js/main.8678016f.chunk.js"
   ]
 }
