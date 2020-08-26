@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kimflix/precache-manifest.829b60621edf1c4083b0e48fa4323ca6.js"
+  "/kimflix/precache-manifest.5a6b5c21604044c31ef1efd0d2b1a593.js"
 );
 
 self.addEventListener('message', (event) => {
