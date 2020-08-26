@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6efee3426df8950180eb344a15b5adc9",
+    "revision": "127ff3ae16c17462444d7e63dbb086c4",
     "url": "/kimflix/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kimflix/static/js/2.96d959f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "287b7e5999646823b065",
-    "url": "/kimflix/static/js/main.84dce5da.chunk.js"
+    "revision": "ed21075e08ad363cba42",
+    "url": "/kimflix/static/js/main.007f0e8d.chunk.js"
   },
   {
     "revision": "e7f516fc310820bccf00",
