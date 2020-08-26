@@ -27,6 +27,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "hompage": "https://luceinaltis.github.io/kimflix",
   "browserslist": {
     "production": [
       ">0.2%",
